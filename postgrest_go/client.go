@@ -1,4 +1,4 @@
-package pkg
+package postgrest_go
 
 import (
 	"bytes"
