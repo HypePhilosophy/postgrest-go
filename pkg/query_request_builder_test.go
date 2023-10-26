@@ -1,4 +1,4 @@
-package postgrest_go
+package pkg
 
 import (
 	"net/url"
