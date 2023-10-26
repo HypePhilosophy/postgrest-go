@@ -1,3 +1,3 @@
-module github.com/nedpals/postgrest-go
+module github.com/hypephilosophy/postgrest-go
 
-go 1.16
+go 1.21.0
